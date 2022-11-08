@@ -1,0 +1,2 @@
+quatro pilares
+decomposição - reconhecimento de padroes - abstracao - design de algoritimos 
